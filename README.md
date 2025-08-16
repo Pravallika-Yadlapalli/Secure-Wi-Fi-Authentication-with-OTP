@@ -77,7 +77,7 @@ Always use environment variables or a .env file (excluded via .gitignore).
 
 Twilio provides free trial accounts for testing purposes.
 
-📜** License**
+📜**License**
 This project was developed for academic purposes.
 You may freely use or modify it for learning and research.
 
